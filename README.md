@@ -33,7 +33,7 @@ python3 cloud_assessment.py
 
 The same output is referenced in the  cloud-api-results.png
 
-![Cloud API Assessment Results](https://github.com/rajeshdevopsaws/aws-cloud-assement/-/raw/master/cloud-api-results.png)
+![Cloud API Assessment Results](https://github.com/rajeshdevopsaws/aws-cloud-assement/blob/master/cloud-api-results.png)
 
 3. Run the python script to assess the security posture of the AWS environment.
 
@@ -54,7 +54,11 @@ This is very high level approach to assess the security posture of the AWS envir
 We have defined few checks for the CIS benchmarks and AWS security best practices. We can extend this to add more checks.
 
 The same output is referenced in the  cloud-assessment-results.png
-![Cloud API Assessment Results](https://github.com/rajeshdevopsaws/aws-cloud-assement/-/raw/master/cloud-assessment-results.png)
+
+![Cloud API Assessment Results](https://github.com/rajeshdevopsaws/aws-cloud-assement/blob/master/Cloud-assesment-results.png)
+
+
+
 ### Conclusion
 The approach of this project to show the high level approach to assess the security posture of the AWS environment. 
 
